@@ -14,8 +14,5 @@
 #ENTER 
 
  #OUTPUT:-
- [T1__OUTPUT.log](https://github.com/user-attachments/files/18796409/T1__OUTPUT.log)
-
-[T2.log](https://github.com/user-attachments/files/18796387/T2.log)
 
 
