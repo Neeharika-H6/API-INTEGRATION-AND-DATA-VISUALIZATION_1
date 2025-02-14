@@ -19,5 +19,7 @@
 
  [T2_OUTPUT.txt](https://github.com/user-attachments/files/18796739/T2_OUTPUT.txt)
 
+[T3_OUTPUT.txt](https://github.com/user-attachments/files/18796770/T3_OUTPUT.txt)
+
 
 
